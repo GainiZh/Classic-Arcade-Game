@@ -1,3 +1,42 @@
+
 body {
     text-align: center;
+
+}
+
+canvas {
+  padding: 0;
+  margin-top: 50px;
+  max-height: 600px;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 9999;
+  font-size: 20px;
+}
+
+h1 {
+  color: #2ECC71;
+}
+
+/* small devices (phones, up to 480px) */
+@media screen and (max-width: 700px) {
+
+	canvas{
+		max-width: 360px;
+		min-height: 450px;
+	}
+
+  .container {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -145px;
+    z-index: 9999;
+    font-size: 15px;
+  }
 }
