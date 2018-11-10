@@ -12,7 +12,7 @@ This is the third project of the Udacity's Nanodegree Front-End Developer.
 ## Challenge
 
 The goal of the game is to reach the water without any collision with enemies (bugs).
-![alt text](arcade-game-screenshot.png "Image of a Classic Arcade Game")
+![image](images/arcade-game-screenshot.png "Image of a Classic Arcade Game")
 
 ## How to play
 
