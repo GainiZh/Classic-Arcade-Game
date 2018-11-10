@@ -97,7 +97,6 @@ Player.prototype.handleInput = function(keyPress) {
 var allEnemies = [];
 var enemyPosition = [60, 140, 220];
 var enemy;
-
 var player = new Player(200, 380, 50);
 
 enemyPosition.forEach(function(posY) {
