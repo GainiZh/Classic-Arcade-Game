@@ -16,10 +16,10 @@ The goal of the game is to reach the water without any collision with enemies (b
 
 ## How to play
 
-- Player can move right, left, up and down by pressing appropriate keys (left, right, up and down)
+- Player can move to the right, left, up and down by pressing appropriate keys (left, right, up and down)
 - Using keys the player should avoid bugs
 - If the player collides with an enemy, the game starts again
-- If the player reaches the water on the other side, the player wins
+- If the player reaches the water on the other side, the player wins.
 
 ## Built with
 
