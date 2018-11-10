@@ -99,8 +99,8 @@ var enemyPosition = [60, 140, 220];
 var enemy;
 var player = new Player(200, 380, 50);
 
-enemyPosition.forEach(function(posY) {
-  enemy = new Enemy(0, posY, 100 + Math.floor(Math.random() * 512));
+enemyPosition.forEach(function(positionY) {
+  enemy = new Enemy(0, positionY, 100 + Math.floor(Math.random() * 512));
   allEnemies.push(enemy);
 });
 
