@@ -18,10 +18,12 @@ The goal of the game is to reach the water without any collision with enemies (b
 
 ## How to play
 
+- To play the game download the files and save them in a folder. Then open the file index.html in a browser.
 - Player can move to the right, left, up and down by pressing appropriate keys (left, right, up and down)
 - Using keys the player should avoid bugs
 - If the player collides with an enemy, the game starts again
 - If the player reaches the water on the other side, the player wins.
+
 
 ## Built with
 
